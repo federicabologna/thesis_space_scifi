@@ -1,9 +1,9 @@
 List of books: 10 - 20 novels
 
-Huxley, Aldous, Brave New World (1932)
-Stewart, George R., Earth Abides (1949)
-Bradbury, Ray, The Martian Chronicles (1950)
-Vonnegut Jr., Kurt, Cat’s Cradle (1963)
+Huxley, Aldous, Brave New World (1932)/n
+Stewart, George R., Earth Abides (1949)/n
+Bradbury, Ray, The Martian Chronicles (1950)/n
+Vonnegut Jr., Kurt, Cat’s Cradle (1963)/n
 Dick, Philip K. Do Androids Dream of Electric Sheep? (1969)
 Herbert, Frank, Dune (1973)
 Atwood, Margaret, The Handmaid’s Tale (1985)
