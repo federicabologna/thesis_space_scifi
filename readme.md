@@ -1,4 +1,4 @@
-#H1 List of books: 10 - 20 novels
+# H1 List of books: 10 - 20 novels
 
 1. Huxley, Aldous, Brave New World (1932)
 2. Stewart, George R., Earth Abides (1949)
@@ -13,7 +13,7 @@
 11. Vandermeer, Jeff, Southern Reach Trilogy (2014)
 
 
-#H1 List of books: 700 novels
+# H1 List of books: 700 novels
 
 - Metadata on science-fiction from github repo of Underwood, Ted. Distant Horizons: Digital Evidence and Literary Change. University of Chicago Press, 2019.:
 https://github.com/tedunderwood/horizon/blob/master/chapter2/metadata/concatenatedmeta.csv
