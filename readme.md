@@ -2,15 +2,16 @@
 
 1. Huxley, Aldous, Brave New World (1932)
 2. Stewart, George R., Earth Abides (1949)
-3. Bradbury, Ray, The Martian Chronicles (1950)
+3. Bradbury, Ray, Fahrenheit 451 (1950)
 4. Vonnegut Jr., Kurt, Cat’s Cradle (1963)
 5. Dick, Philip K. Do Androids Dream of Electric Sheep? (1969)
 6. Herbert, Frank, Dune (1973)
-7. Atwood, Margaret, The Handmaid’s Tale (1985)
-8. Butler, Octavia E., Parable of the Sower (1993)
-9. Atwood, Margaret, Oryx and Crake (2003)
-10. McCarthy, Cormac, The Road (2006)
-11. Vandermeer, Jeff, Southern Reach Trilogy (2014)
+7. Adams, Douglas, The Hitchhiker’s Guide to the Galaxy (1979)
+8. Atwood, Margaret, The Handmaid’s Tale (1985)
+9. Butler, Octavia E., Parable of the Sower (1993)
+10. Atwood, Margaret, Oryx and Crake (2003)
+11. McCarthy, Cormac, The Road (2006)
+12. Vandermeer, Jeff, Annihilation (2014)
 
 
 ### List of books: 700 novels
