@@ -6,9 +6,10 @@ def finalmeta_extraction(file_path):
         reader = csv.DictReader(csvfile)  # DictReader it's a module needed for reading .csv files
         finalmeta_dict = dict() # our data structure: in  the values assigned to keys are dictionaries
         for row in reader:  # iteration over "rows" in .csv file
-            if row["date"] > "1899" and "scifi" in row["genretags"]:
-                dictid = row["date"] + "_" + row["title"].lower()
+            if row["date"] > "1899" and "scifi" in row["tags"]:
+                dictid = row["title"].lower()
                 finalmeta_dict[dictid] = dict()
+                finalmeta_dict[dictid]["htid"] = row["docid"]
                 finalmeta_dict[dictid]["author"] = row["author"]
                 finalmeta_dict[dictid]["date"] = row["date"]
                 finalmeta_dict[dictid]["title"] = row["title"]
@@ -24,12 +25,13 @@ def hugo_extraction(file_path):
         for row in reader:  # iteration over "rows" in .csv file
             year = str(int(row["Year"]) - 1)
             title = title_polisher(row["Novel"])
-            dictid = year + "_" + title.lower()
+            dictid = title.lower()
             name = name_polisher(row["Author(s)"])
             if dictid in hugo_dict.keys():
                 hugo_dict[dictid]["author"] = hugo_dict[dictid]["author"] + ", " + name
             else:
                 hugo_dict[dictid] = dict()
+                hugo_dict[dictid]["htid"] = " "
                 hugo_dict[dictid]["author"] = name
                 hugo_dict[dictid]["date"] = year
                 hugo_dict[dictid]["title"] = row["Novel"]
@@ -45,11 +47,12 @@ def nebula_extraction(file_path):
         for row in reader:  # iteration over "rows" in .csv file
             year = str(int(row["Year"]) - 1)
             name = name_polisher(row["Author"])
-            dictid = year + "_" + row["Novel"].lower()
+            dictid = row["Novel"].lower()
             if dictid in nebula_dict.keys():
                 nebula_dict[dictid]["author"] = nebula_dict[dictid]["author"] + ", " + name
             else:
                 nebula_dict[dictid] = dict()
+                nebula_dict[dictid]["htid"] = " "
                 nebula_dict[dictid]["author"] = name
                 nebula_dict[dictid]["date"] = year
                 nebula_dict[dictid]["title"] = row["Novel"]
