@@ -16,7 +16,7 @@
 
 ### List of books: 700 novels
 
-- Metadata on science-fiction from github repo of Underwood, Ted. Distant Horizons: Digital Evidence and Literary Change. University of Chicago Press, 2019.:
+- Metadata on science-fiction from github repo of Underwood, Ted. *Distant Horizons: Digital Evidence and Literary Change.* University of Chicago Press, 2019.:
 https://github.com/tedunderwood/horizon/blob/master/chapter2/metadata/concatenatedmeta.csv
 - Hugo Award for Best Novel by World Science Fiction Society: 1953-present
 https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel
