@@ -6,7 +6,7 @@ This study was based on Edward Soja’s theory of space and Gabriel Zoran’s, R
 
 Cityspace was treated as: a literary topic; as the occurrence of linguistic units that shape urban areas in text; as the occurrence of geographical location in text. The first aspect was investigated using topic modeling; the second analyzing the occurrences of urban terms from a statistical perspective; the third analyzing the occurrences of named places.
 
-* 1. Corpus creation
-* 2. Topic modeling
-* 3. Urban terms
-* 4. Geographical locations
+1. Corpus creation
+2. Topic modeling
+3. Urban terms
+4. Geographical locations
