@@ -6,9 +6,9 @@ The random corpus was created by randomly selecting fiction books for the HathiT
 
 By “urban terms”, I indicate terms that can commonly be found in narratives that focus on cityspace. Such terms define places and objects that belong to highly urbanized areas and characterize the urban experience. The list of urban terms used in this study was created by using Williams’ The Country and the City as main reference, as well as Eisner’s comics on New York – New York: The Big City specifically –, and the thesaurus of the MacMillan Dictionary of English Language. The terms were listed in their lemmatized form in order to easily include all the different inflections without having to singularly enlist them.
 
-The occurrences of all the lemmas contained in all the books from both corpora were retrieved and stored in a CSV file.
+The occurrences of all the lemmas contained in all the books from both corpora were retrieved and stored in a CSV file. The code for this process is available in terms_extraction.ipynb.
 
-Then, this data was analyzed and compared statistically across the corpora
+Then, this data was analyzed and compared statistically across the corpora. The code for this analysis is available in terms_stats.ipynb.
 
 * “Areas in Towns or Cities - Synonyms and Related Words.” Macmillan Dictionary, 
 https://www.macmillandictionary.com/thesaurus-category/british/areas-in-towns-or-cities.
