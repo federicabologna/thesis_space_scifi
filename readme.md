@@ -10,3 +10,5 @@ Cityspace was treated as: a literary topic; as the occurrence of linguistic unit
 2. Topic modeling
 3. Urban terms
 4. Geographical locations
+
+![Number of occurrences of urban lemmas per novel in science fiction over the 20th century](https://github.com/federicabologna/thesis_space_scifi/blob/master/occurrences_decade_sf.png)
