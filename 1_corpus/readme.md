@@ -1,6 +1,6 @@
 # Stage 1. Corpus Creation
 
-For the purposes of this study, it was necessary to build a corpus of contemporary science fiction works. For retrieving contemporary works, the best resource to turn to was the HathiTrust collection.
+For the purposes of this study, it was necessary to build a corpus of contemporary science fiction works. For the retrieval of contemporary works, the best resource was the HathiTrust collection.
 
 In order to best represent the whole genre, I selected books that were nominated for prizes awarded to science fiction books. Specifically, I selected the winners and nominees of the Nebula, the Hugo and the Retro-Hugo awards.
 
