@@ -10,8 +10,7 @@ The occurrences of all the lemmas contained in all the books from both corpora w
 
 Then, this data was analyzed and compared statistically across the corpora. The code for this analysis is available in terms_stats.ipynb.
 
-* “Areas in Towns or Cities - Synonyms and Related Words.” Macmillan Dictionary, 
-https://www.macmillandictionary.com/thesaurus-category/british/areas-in-towns-or-cities.
+* [“Areas in Towns or Cities - Synonyms and Related Words.”](https://www.macmillandictionary.com/thesaurus-category/british/areas-in-towns-or-cities) Macmillan Dictionary.
 * Eisner, Will. New York: The Big City. WW Norton & Company, 2006.
 * Williams, Raymond. The country and the city. Vol. 423. Oxford University Press, 
 USA, 1975.
