@@ -1,0 +1,79 @@
+wrong,correct,is_geo
+"Atlantic Monthly Group, 600 New Hampshire Ave NW # 4, Washington, DC 20037, USA",Atlantic Ocean,TRUE
+"Broadway, 342 Massachusetts Ave, Indianapolis, IN 46204, USA","Broadway, New York, NY, USA",TRUE
+"Third Ave, Bay Shore, NY 11706, USA","Third Ave, New York, NY 10035, USA",TRUE
+"Pacific Co, 2701 S 13th Ave, Broadview, IL 60155, USA",Pacific Ocean,TRUE
+"The Cold War Museum, 7172 Lineweaver Rd, Warrenton, VA 20187, USA",Russia,TRUE
+"Council For American Private Education, 13017 Wisteria Dr # 457, Germantown, MD 20874, USA","Cape Town, South Africa",TRUE
+"Babylon, 1320 Highland Ave, Hollywood, CA 90028, USA","Hillah, Babil Governorate, Iraq",TRUE
+"Yorkshire County Fish Shop, Bay Lake, FL, USA","Yorkshire, UK",TRUE
+"Constantinople, 428 Rue Rachel E, Montréal, QC H2J 2G8, Canada","Istanbul, Turkey",TRUE
+"Waterloo, IA, USA","Waterloo, Belgium",TRUE
+"Windsor Sales, 19694 Morton Oaks Rd, Audubon, MN 56511, USA","Windsor, UK",TRUE
+"King of Prussia, 160 N Gulph Rd, King of Prussia, PA 19406, USA","Königsberg, Germany",TRUE
+"New York Times Corporation Library, 620 8th Ave, New York, NY 10018, USA","New York, NY, USA",TRUE
+"Jericho High School, 99 Cedar Swamp Rd, Jericho, NY 11753, USA","Jericho Municipality, Palestine Square Jericho, Palestine, Jericho",TRUE
+"Sahara Restaurant, 165 Easton Ave, New Brunswick, NJ 08901, USA",Sahara Desert,TRUE
+"Devon Energy Corporation, 4501 Technology Dr, Weatherford, OK 73096, USA","Devon, UK",TRUE
+"American Czechoslovakian Club, 922 Valley St, Dayton, OH 45404, USA",Czech Republic,TRUE
+"Greenwich, CT, USA","Greenwich, London, UK",TRUE
+"Dorchester, Boston, MA, USA","Dorchester, Dorset, UK",TRUE
+"Kashmir Restaurant, 279 Newbury St, Boston, MA 02116, USA","Jammu and Kashmir, India",TRUE
+"Malaya, 857 Collier Rd NW #10, Atlanta, GA 30318, USA",Malaysia,TRUE
+"Pearl Harbor Survors Association, 4105 Naomi Dr, Louisville, KY 40219, USA","Oahu, Hawaii",TRUE
+"Middlesex Community College, 33 Kearney Square, Lowell, MA 01852, USA","London, UK",TRUE
+"University of Notre Dame, Notre Dame, IN 46556, USA","6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France",TRUE
+"Carthage, MO 64836, USA","Tunis Governorate, Tunisia",TRUE
+"Kensington Church, 1825 E Square Lake Rd, Troy, MI 48085, USA","Kensington, UK",TRUE
+"United States Holocaust Memorial Museum, 100 Raoul Wallenberg Pl SW, Washington, DC 20024, USA",Serbia,TRUE
+"Temple Judea, 5429 Lindley Ave, Tarzana, CA 91356, USA",Israel,TRUE
+"Rio All-Suites Hotel and Casino, 3700 W Flamingo Rd, Las Vegas, NV 89103, USA","Rio de Janeiro, Brasil",TRUE
+"W End, Kaikoura 7300, New Zealand","West End, London, UK",TRUE
+"Kent, WA, USA","Kent, UK",TRUE
+"Rio Grande, 7500 Bluewater Rd NW, Albuquerque, NM 87121, USA","Rio Grande, Rio Grande do Sul, Brazil",TRUE
+"Paddington Station Preschool, 1301 Quebec St, Denver, CO 80220, USA","Paddington, London, UK",TRUE
+"Made in USSR, 102 Wall Street, Norwalk, CT 06850, USA",Russia,TRUE
+"Grand Canal, 57 Canal St, Boston, MA 02114, USA","Grand Canal, Venice, Italy",TRUE
+"Westminster, CO, USA","Westminster, London, UK",TRUE
+"Manchuria Garden, 6180 McDonough Dr NW, Norcross, GA 30093, USA",China,TRUE
+"Labrador Mountain, 6935 NY-91, Truxton, NY 13158, USA","Labrador, Canada",TRUE
+"Alhambra, CA, USA","Alhambra, Calle Real de la Alhambra, s/n, 18009 Granada, Spain",TRUE
+"South Pacific Financial, 777 N Rainbow Blvd, Las Vegas, NV 89107, USA",South Pacific Ocean,TRUE
+"Antioch, CA, USA","Antakya, Hatay Province, Turkey",TRUE
+"Ephesus Mediterranean Restaurant, 219 4th Ave, Pittsburgh, PA 15222, USA","Selçuk/İzmir, Turkey",TRUE
+"Kola, 1940 Orange Tree Ln #200, Redlands, CA 92374, USA","Kola, Russia",TRUE
+"Belmont University, 1900 Belmont Blvd, Nashville, TN 37212, USA","Belmont, New York 14813, USA",TRUE
+"Eton Corporation, 1015 Corporation Way, Palo Alto, CA 94303, USA","Eton, UK",TRUE
+"Fontainebleau Miami Beach, 4441 Collins Ave, Miami Beach, FL 33140, USA","Fontainebleau, France",TRUE
+"westberlin, Friedrichstraße 215, 10969 Berlin, Germany","Berlin, Germany",TRUE
+"Limerick Township Finance Department, 646 W Ridge Pike, Royersford, PA 19468, USA","Limerick, Ireland",TRUE
+"Piedmont Natural Gas Co, 1069 Wilkes Rd, Fayetteville, NC 28306, USA","Piedmont, Italy",TRUE
+"Trails of Indochina, 4100 Birch St, Newport Beach, CA 92660, USA",Indochina,TRUE
+"Buckingham Manufacturing Co, 11 Travis Ave, Binghamton, NY 13904, USA","Buckingham Palace, Westminster, London SW1A 1AA, UK",TRUE
+"Midlands Technical College - Airport Campus, 1260 Lexington Dr, West Columbia, SC 29170, USA","Midlands, UK",TRUE
+"The State University of New York at Potsdam, 44 Pierrepont Ave, Potsdam, NY 13676, USA","Potsdam, Germany",TRUE
+"Aix Media Group Inc, 2050 Granville Ave, Los Angeles, CA 90025, USA","Aix-en-Provence, France",TRUE
+"Rutgers University Frelinghuysen Hall, 611 George St, New Brunswick, NJ 08901, USA","Sakai, Osaka, Japan",TRUE
+"Harmandir Sahib, Golden Temple Rd, Atta Mandi, Katra Ahluwalia, Amritsar, Punjab 143006, India","Kinkaku-ji, 1 Kinkakujicho, Kita Ward, Kyoto, 603-8361, Japan",TRUE
+"Bay News 9, 1624 N Meadowcrest Blvd, Crystal River, FL 34429, USA","Paradise Bay (Oneura Bay), New Zealand",TRUE
+"T37050 Isolo VR, Italy","Oshodi-Isolo, Lagos, Nigeria",TRUE
+"South Pole Carbon México S. de R. L. de C.V., Campeche 290, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, D.F., Mexico",South Pole,TRUE
+"Attica Correctional Facility, 639 Exchange Street Rd, Attica, NY 14011, USA","Attica, Greece",TRUE
+"The Roman Empire Restaurant, 1/742 Creek Rd, Carindale QLD 4152, Australia","Rome, Italy",TRUE
+"Made in USSR, 102 Wall Street, Norwalk, CT 06850, USA",Russia,TRUE
+"Great China, 2190 Bancroft Way, Berkeley, CA 94704, USA",China,TRUE
+"Illyria Albanian American News, 481 8th Ave # 536, New York, NY 10001, USA",Balkan Peninsula,TRUE
+"Gilder Leherman Institute, 49 W 45th St, New York, NY 10036, USA",Austria,TRUE
+"California City Middle School, 9736 Redwood Blvd, California City, CA 93505, USA",California,TRUE
+"Amazon Fulfillment, 7200 Discovery Drive, Chattanooga, TN 37421, USA","Amazônia, Codajás - Amazonas, 69450-000, Brasile",TRUE
+"US Department of State, 320 21st St NW, Washington, DC 20451, USA",USA,TRUE
+"Great NY Noodletown, 28 Bowery, New York, NY 10013, USA","New York, NY, USA",TRUE
+"Mutuelle Alsace Lorraine, 6 Boulevard de l'Europe, 68050 Mulhouse, France","Alsace, France",TRUE
+"Michigan State Lottery, 101 E Hillsdale St, Lansing, MI 48933, USA","Michigan, US",TRUE
+"Trianon Coffee, 3201 Bee Cave Rd #163, Austin, TX 78746, USA","Grand Trianon, Porte Saint-Antoine, 78000 Versailles, France",TRUE
+"The MarsYard III, Pioneer Rd, La Cañada Flintridge, CA 91011, USA",Mars,FALSE
+"Jupiter, 2181 Shattuck Ave, Berkeley, CA 94704, USA",Jupiter,FALSE
+"Moon, PA, USA",Moon,FALSE
+"Pluto's, 201 Main St, Chico, CA 95928, USA",Pluto,FALSE
+"Neptune Oyster, 63 Salem St, Boston, MA 02113, USA",Neptune,FALSE
+"Arcadia, CA, USA",Arcadia,FALSE
