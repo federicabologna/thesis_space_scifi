@@ -1,7 +1,10 @@
 Analysis of occurrences of urban geographic locations.
 
-The data was readily available thanks to the <i>Textual Geographies</i> project directed by Matthew Wilkens. The project collects the geographic data relative to the several milion volumes contained in the Hathi Trust collection.
+The geographic locations contained in both corpora were easily accessed thanks to the [<i>Textual Geographies</i>](http://www.txtgeo.net/ "Textual Geographies") project.
 
-First, Stanford NER is used to retrieve the names of the locations mentioned in the works of the collection.
+Textual Geographies makes available the geographic data related to the HathiTrust digital library. The data is produced by first extracting the named locations from the volumes using [Stanford’s named entity recognizer (NER)](https://nlp.stanford.edu/ner/ "Stanford's NER"). Then, the resulting location strings are associated with geographic data from Google’s Places and Geocoding APIs. Once the geographic data is retrieved, the addresses are manually checked for greater accuracy. A more complete description of this process can be found in Elizabeth Evans and Matthew Wilkens. ["Nation, Ethnicity, and the Geography of British Fiction, 1880-1940,"](https://culturalanalytics.org/article/11037-nation-ethnicity-and-the-geography-of-british-fiction-1880-1940) 16.
+
+For the purposes of this study, we defined urban locations as those associated with a [third-level administrative area or lower](https://developers.google.com/places/supported_types#table3, "Google's Places API documentation") (including all localities).
+
 
 
