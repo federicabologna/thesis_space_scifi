@@ -1,3 +1,5 @@
+# Stage 4. Urban geographic locations
+
 Analysis of occurrences of urban geographic locations.
 
 The geographic locations contained in both corpora were easily accessed thanks to the [<i>Textual Geographies</i>](http://www.txtgeo.net/ "Textual Geographies") project.
@@ -6,5 +8,4 @@ Textual Geographies makes available the geographic data related to the HathiTrus
 
 For the purposes of this study, we defined urban locations as those associated with a [third-level administrative area or lower](https://developers.google.com/places/supported_types#table3, "Google's Places API documentation") (including all localities).
 
-
-
+The
