@@ -6,9 +6,9 @@ This study was based on Edward Soja’s theory of space and Gabriel Zoran’s, R
 
 Cityspace was treated as: a literary topic; as the occurrence of linguistic units that shape urban areas in text; as the occurrence of geographical location in text. The first aspect was investigated using topic modeling; the second analyzing the occurrences of urban terms from a statistical perspective; the third analyzing the occurrences of named places.
 
-[1. Corpus creation](https://github.com/federicabologna/thesis_space_scifi/tree/master/1_corpus)
-[2. Topic modeling](https://github.com/federicabologna/thesis_space_scifi/tree/master/2_topicmodeling)
-[3. Urban terms](https://github.com/federicabologna/thesis_space_scifi/tree/master/3_terms)
-[4. Geographical locations](https://github.com/federicabologna/thesis_space_scifi/tree/master/4_geodata)
+1.[Corpus creation](https://github.com/federicabologna/thesis_space_scifi/tree/master/1_corpus)
+2.[Topic modeling](https://github.com/federicabologna/thesis_space_scifi/tree/master/2_topicmodeling)
+3.[Urban terms](https://github.com/federicabologna/thesis_space_scifi/tree/master/3_terms)
+4.[Geographical locations](https://github.com/federicabologna/thesis_space_scifi/tree/master/4_geodata)
 
 ![Number of occurrences of urban lemmas per novel in science fiction over the 20th century](https://github.com/federicabologna/thesis_space_scifi/blob/master/occurrences_decade_sf.png)
