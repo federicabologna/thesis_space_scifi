@@ -1,6 +1,6 @@
-Stage 5. Keywords in Context
+# Stage 5. Keywords in Context -> Work in progress!
 
-Work in progress! Analysis of the linguistic context surrounding urban terms in the science fiction corpus.
+Analysis of the linguistic context surrounding urban terms in the science fiction corpus.
 
 For a clear definition of what "urban terms" means look in Stage 3.
 
